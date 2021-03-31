@@ -1,0 +1,29 @@
+**----------------------------------**
+Data Science Project Scoping Guide
+**----------------------------------**
+from: http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/
+
+------------------
+Initial Criteria
+------------------
+1. The problem we’re solving is real, important, and has social impact.
+2. Data can play a role in solving the problem, and the organization has access to the right data.
+3. The organization has prioritized this problem, is ready to tackle it, take actions based on the work, and is willing to commit resources to validate and implement it.
+
+------------------
+Scoping Overview
+------------------
+
+- Step 1: Goals – Define the goal(s) of the project
+
+- Step 2: Actions – What actions/interventions do you have that this project will inform?
+
+- Step 3: Data – What data do you have access to internally? What data do you need? What can you augment from external and/or public sources?
+
+- Step 4: Analysis – What analysis needs to be done? Does it involve description, detection, prediction, or behavior change? How will the analysis be validated?
+
+Ethical Considerations :  What are the privacy, transparency, discrimination/equity, and accountability issues around this project and how will you tackle them?
+
+The scoping process is fairly iterative and the scope gets refined both during the scoping process as well as during the project.
+
+The overall project then involves performing the analysis (from Step 4) using the data (from Step 3) to inform the actions (from Step 2) to achieve the goals (from Step 1).
